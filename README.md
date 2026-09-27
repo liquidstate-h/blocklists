@@ -3,7 +3,9 @@
 ### For custom lists:
 
 Filename: `custom##-Example.txt`
+
 Format: `hosts`
+
 Syntax: `0.0.0.0 example.com`
 
 ---
