@@ -1,0 +1,54 @@
+## Main blocklist
+# Full list includes large lists with several lists containing over 100k entries
+
+# Title: Blocklist Project
+# Description: Blocklist Poject lists I care about 
+# Homepage: https://blocklistproject.github.io/Lists
+# 
+
+https://blocklistproject.github.io/Lists/abuse.txt
+https://blocklistproject.github.io/Lists/ads.txt
+https://blocklistproject.github.io/Lists/crypto.txt
+https://blocklistproject.github.io/Lists/fraud.txt
+https://blocklistproject.github.io/Lists/malware.txt
+https://blocklistproject.github.io/Lists/phishing.txt
+https://blocklistproject.github.io/Lists/ransomware.txt
+https://blocklistproject.github.io/Lists/redirect.txt
+https://blocklistproject.github.io/Lists/scam.txt
+
+https://blocklistproject.github.io/Lists/smart-tv.txt
+
+# Title: OISD big
+# Description: OISD big blocklist 
+# Homepage: https://oisd.nl/
+#
+
+https://big.oisd.nl
+
+# Title: Steven Black
+# Description: Steven Black unified hosts adware + malware list
+# Homepage: https://github.com/stevenblack/hosts
+#
+
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+# Title: HaGeZi Pro
+# Description: HaGeZi Pro blocklist
+# Homepage: https://github.com/hagezi/dns-blocklists
+#
+
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomains.txt
+
+# Title: blocklist-custom01-Amazon
+# Description: Custom Amazon OTA blocklist
+# Homepage: https://github.com/liquidstate-h/blocklists
+#
+
+https://github.com/liquidstate-h/blocklists/blocklist-custom01-Amazon.txt
+
+# Title: blocklist-custom01-Amazon
+# Description: Custom Amazon OTA blocklist
+# Homepage: https://github.com/liquidstate-h/blocklists
+#
+
+https://github.com/liquidstate-h/blocklists/blocklist-custom02-Hisense.txt
