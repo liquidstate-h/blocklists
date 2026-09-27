@@ -1,5 +1,4 @@
 # Preferred or custom DNS blocklists
----
 
 ### For custom lists:
 
@@ -8,11 +7,12 @@ Format: `hosts`
 Syntax: `0.0.0.0 example.com`
 
 ---
-Header template:
-`# Title: 
+### Header template:
+````# Title: 
 # Description: 
 # Homepage: 
 # Last modified: 
 # Format: hosts
 # Entries: 
-# `
+# 
+````
